@@ -4,3 +4,5 @@ print("goodbye")
 
 def nogame():
     print ("chickens")
+    
+nogame()
